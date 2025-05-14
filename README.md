@@ -40,18 +40,16 @@ This project applies multiple machine learning models to predict injury outcomes
 ```bash
 pip install -r requirements.txt
 Ensure the dataset (injury_prediction_dataset.csv) is in the same directory as the script or update the file path in the script.
-
+```
 Run the script:
 
-bash
-Copy
-Edit
+```bash
 python ml_injurypred.py
+```
 📊 Output
+
 Printed accuracy and classification report per model
-
 Plotted confusion matrix and ROC curve
-
 Bar chart of prediction counts
 
 📌 Note
