@@ -41,7 +41,7 @@ This project applies multiple machine learning models to predict injury outcomes
 pip install -r requirements.txt
 Ensure the dataset (injury_prediction_dataset.csv) is in the same directory as the script or update the file path in the script.
 ```
-Run the script:
+3. Run the script:
 
 ```bash
 python ml_injurypred.py
